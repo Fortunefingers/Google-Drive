@@ -1,0 +1,103 @@
+* {
+ padding: 0;
+ margin: 0;
+ list-style: none;
+}
+nav{
+border: 2px solid black;
+}
+.harmbugger-icon{
+ height: 24px;
+}
+nav ul {
+ padding-left: 20px;
+ display: flex;
+ font-size: 30px;
+ 
+}
+nav img{
+ height: 30px;
+}c:\Users\USER\Desktop\PROJECTS FILES\Google Drive Class Work
+nav li{
+ list-style: none;
+  justify-content: space-evenly;
+}
+.middle-section{
+ background-color: whitesmoke;
+ padding-top: 20px;
+ height: 850px;
+ margin: 300px 50px 3px 50px;
+}
+.middle-section h1{
+ padding-top: 20px;
+ text-align:center ;
+ font-size: 50px;
+ font-weight: lighter;
+}
+.middle-section img{
+ padding-top: 25px;
+ padding-bottom: 40px;
+ padding-left: 150px;
+}
+.middle-section-one{
+ background-color: white;
+ padding-top: 100px;
+ height: 400px;
+ margin: 10px 0px 80px 0px;
+ box-shadow: 0px 0px 6px 6px rgb(228, 224, 224)
+ }
+.sales-logo{
+ display: flex;
+ justify-content: center;
+ padding-top: 10px;
+ padding-bottom: 30px;
+}
+.middle-section-one p{
+ text-align: center;  
+ padding-bottom: 30px;
+}
+.middle-section-one h4 {
+ text-align: center;
+color: rgb(74, 74, 238);
+}
+.middle-section-two {
+ background-color: white;
+ padding-top: 20px;
+ height: 400px;
+ margin: 10px 50px 3px 50px;
+ padding-left: 10px;
+}
+.middle-section-two img{
+ border: 1px solid rgb(228, 224, 224);
+}
+.middle-section-two img:hover {
+ background-color: whitesmoke;
+ padding: 1px;
+ box-shadow: 0px 0px 1px 1px rgb(228, 224, 224)
+}
+.middle-section-two h1{
+ font-weight: lighter;
+ font-size: 45px;
+ text-align: center;
+ padding: 100px 2px 50px 2px;
+
+}
+.middle-section-three h1{
+text-align: center;
+font-weight: lighter;
+font-size: 45px;
+}
+.middle-section-three h3{
+ text-align: center;
+ font-weight: lighter;
+ margin: 15px 0px 15px 0px;
+}
+.icon{
+ display: flex;
+ justify-content: center;
+ padding-left: 20px;
+ margin: 30px;
+}
+.icon p{
+ margin: 5px 15px 0px 5px;
+}
